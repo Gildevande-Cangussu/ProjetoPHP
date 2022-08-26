@@ -1,0 +1,17 @@
+{
+    "name": "gilde/projeto-php",
+    "description": "Este e um projeto php usando composer...",
+    "require": {
+        "monolog/monolog": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gilde\\ProjetoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gildevande"
+        }
+    ]
+}
